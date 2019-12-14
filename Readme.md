@@ -10,3 +10,6 @@
 
 - [Sesión 1: Introducción a la terminal de comandos](Sesion-01/):
 - [Sesión 2: Preparación y consulta de datos desde la terminal](Sesion-02/):
+- [Sesión 3: Fundamentos de SQL e importación de datos](Sesion-03/):
+- [Sesión 4: Consultas de datos y relaciones en SQL](Sesion-04/):
+
