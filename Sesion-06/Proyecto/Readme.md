@@ -10,9 +10,9 @@
 1. Contar con la base de datos __Ecobici__ y la colección __Viajes__
 
 ### DESARROLLO
-1. Encontrar cuantos viajes se realizaron y cuál es la edad promedio de los ciclistas en la segunda mitad de enero 2018.
+1. Encontrar cuantos viajes se realizaron y cuál es la edad promedio de los ciclistas en la primera mitad de octubre 2019.
 
-   La primera etapa es para agregar todas nuestras variables auxiliares como son __Edad__ (Edad_Usuario en tipo entero), __FechaRetiro__ (Fecha_Retiro en tipo fecha) y __Fecha__ (La constante "15/01/2018" en tipo fecha)
+   La primera etapa es para agregar todas nuestras variables auxiliares como son __Edad__ (Edad_Usuario en tipo entero), __FechaRetiro__ (Fecha_Retiro en tipo fecha) y __Fecha__ (La constante "01/10/2019" en tipo fecha)
    ```json
    ???
    ```
@@ -43,9 +43,9 @@
    El resultado final será:
    ![Resultado etapa 3](assets/resultados-etapa-3.png)
 
-1. Obtener el porcentaje de ciclistas mujeres que usaron el servicio el 3 de enero del 2018.
+1. Obtener el porcentaje de ciclistas mujeres que usaron el servicio el 3 de octubre del 2019.
 
-   La primera etapa es reducir los ciclistas al 3 de enero del 2018 usando __$match__:
+   La primera etapa es reducir los ciclistas al 3 de octubre del 2019 usando __$match__:
    ```json
    {
      ???
@@ -123,4 +123,4 @@
    ```
    ![Mujeres ciclistas etapa 7](assets/mujeres-ciclistas-e7.png)
 
-   Y con esto se obtiene el porcentaje de ciclistas femeninos el 3 de enero del 2018.
+   Y con esto se obtiene el porcentaje de ciclistas femeninos el 3 de octubre del 2019.
