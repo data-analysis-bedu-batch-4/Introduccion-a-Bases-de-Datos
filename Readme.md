@@ -14,3 +14,5 @@
 - [Sesión 4: Consultas de datos y relaciones en SQL](Sesion-04/):
 - [Sesión 5: Fundamentos de MongoDB e importación de datos](Sesion-05/):
 - [Sesión 6: Consultas con MongoDB a datos estructurados](Sesion-06/):
+- [Sesión 7: Obteniendo datos desde una API e importando a la nube](Sesion-07/):
+- [Sesión 8: Consultas con MongoDB a datos no relacionales](Sesion-08/):
